@@ -1,6 +1,6 @@
 # homebrew-rusty
 
-Homebrew tap for [Rusty-IDE](https://github.com/traian18/rusty).
+Homebrew tap for [Rusty-IDE](https://github.com/traian18/rusty-ide).
 
 ## Install
 
