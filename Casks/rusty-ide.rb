@@ -1,6 +1,6 @@
 cask "rusty-ide" do
-  version "0.1.65"
-  sha256 "2300aa38c8dd6045a046fbe6ba28c5e40e82890dab1cc20c6d3aa7998c76a7d0"
+  version "0.1.66"
+  sha256 "cb73dc4e11f0b70de6a1af7fc2d644f323115d01bd9376767fcd617a060c4971"
 
   url "https://github.com/traian18/rusty-ide/releases/download/v#{version}/Rusty-IDE_#{version}_aarch64.dmg"
   name "Rusty IDE"
